@@ -14,3 +14,9 @@ BEM etc tries to solve that issue but does not really do that.
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+---
+
+### TLDR;
+
+<script src="https://gist.github.com/BobbyBabybird/b33ed50c4021f9da2b451633882fd584.js"></script>
