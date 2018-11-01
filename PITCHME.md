@@ -1,14 +1,15 @@
-# Flux
+# Styled components
 
-An application architecture for React
+Short description
 
 ---
 
-### Flux Design
+### Problem with current paradigm
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Today: We’re living in the component age. Lego block style code is what we try to achive.
+- Problem: CSS is still a document style addition excluding the component structure.
+BEM etc tries to solve that issue but does not really do that.
+- Solution: Enter Styled-components.
 
 ---
 
