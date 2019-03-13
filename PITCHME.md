@@ -39,8 +39,6 @@ https://www.youtube.com/watch?v=MT4D_DioYC8
 
 ### TLDR;
 
-<script src="https://gist.github.com/BobbyBabybird/750b250c5027ebec2c2a6e4bf5ec654b.js"></script>
+---?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=Styled components
 
-?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=Styled components
-
----
+---?gist=BobbyBabybird/52075d0ad7f7a9bca59938b1400c2d32&lang=JS&title=Its just CSS
