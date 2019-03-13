@@ -6,14 +6,33 @@ Short description
 
 ### Problem with current paradigm
 
-- Today: We’re living in the component age. Lego block style code is what we try to achive.
+- We strive to build lego style components.
 - Problem: CSS is still a document style addition excluding the component structure.
 BEM etc tries to solve that issue but does not really do that.
-- Solution: Enter Styled-components.
+- Solution: Enter Styled-components or other CSS-in-JS solutions.
 
 ---
 
+
+
+---
+
+### Why Styled Components
+
+- Network effect.
+- Was happy with CSS Modules. This takes it a step further.
+- Doesn't limit css developers.
+- Works well with React.
+
+---
+
+### Basic example
+
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+---
+For css:ers this is a good demonstration. Glenn Madden is coming from css and was behind CSS Modules.
+https://www.youtube.com/watch?v=MT4D_DioYC8
 
 ---
 
@@ -21,4 +40,4 @@ BEM etc tries to solve that issue but does not really do that.
 
 <script src="https://gist.github.com/BobbyBabybird/b33ed50c4021f9da2b451633882fd584.js"></script>
 
----?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=GIST: Styled components
+---?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=Styled components
