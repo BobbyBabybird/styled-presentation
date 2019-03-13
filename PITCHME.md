@@ -23,6 +23,7 @@ BEM etc tries to solve that issue but does not really do that.
 - Was happy with CSS Modules. This takes it a step further.
 - Doesn't limit css developers.
 - Works well with React.
+- Generating HTML and CSS. Not recreating the wheel.
 
 ---
 
@@ -38,6 +39,8 @@ https://www.youtube.com/watch?v=MT4D_DioYC8
 
 ### TLDR;
 
-<script src="https://gist.github.com/BobbyBabybird/b33ed50c4021f9da2b451633882fd584.js"></script>
+<script src="https://gist.github.com/BobbyBabybird/750b250c5027ebec2c2a6e4bf5ec654b.js"></script>
 
----?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=Styled components
+?gist=BobbyBabybird/b33ed50c4021f9da2b451633882fd584&lang=JS&title=Styled components
+
+---
