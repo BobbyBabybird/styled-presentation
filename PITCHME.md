@@ -1,6 +1,6 @@
 # Styled components
 
-Short description
+Dr. Front presentation
 
 ---
 
@@ -21,12 +21,11 @@ BEM etc tries to solve that issue but does not really do that.
 - Works well with React.
 - Generating HTML and CSS. Not recreating the wheel.
 
----
-
 ---?gist=BobbyBabybird/b81c2cc2f5aff000af532038e445733f&lang=JS&title=Quite messy
 
 ---?gist=BobbyBabybird/fea40d9746cda7fede5753692f8a0a0b&lang=JS&title=Better
 
+---
 
 ### What we get
 
@@ -35,19 +34,9 @@ BEM etc tries to solve that issue but does not really do that.
 
 ---
 
-### Basic example
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
----
-For css:ers this is a good demonstration. Glenn Madden is coming from css and was behind CSS Modules.
-https://www.youtube.com/watch?v=MT4D_DioYC8
-
----
-
 ### TLDR;
 
----?gist=BobbyBabybird/750b250c5027ebec2c2a6e4bf5ec654b&lang=JS&title=Styled components
+---?gist=BobbyBabybird/750b250c5027ebec2c2a6e4bf5ec654b&lang=JS&title=Styled components (a tagged template function)
 
 ---?gist=BobbyBabybird/52075d0ad7f7a9bca59938b1400c2d32&lang=JS&title=Its just CSS
 
@@ -58,3 +47,22 @@ https://www.youtube.com/watch?v=MT4D_DioYC8
 ---?gist=BobbyBabybird/16b70917b6fb914b4502b27fbf849d7e&lang=JS&title=Its also JavaScript
 
 ---?gist=BobbyBabybird/c34f667f780c9fe35c807c2551ed4608&lang=JS&title=Global styles
+
+---?gist=BobbyBabybird/c34f667f780c9fe35c807c2551ed4608&lang=JS&title=Global styles
+
+---
+
+### Debugging
+
+![Easy to find file](./debugging-styled-components.png)
+
+---
+
+### That's all folks
+
+##### Links
+
+- https://medium.com/@jidefr/using-css-variables-with-styled-components-3886f8ee35a0
+- https://www.youtube.com/watch?v=MT4D_DioYC8
+
+---
