@@ -54,7 +54,7 @@ BEM etc tries to solve that issue but does not really do that.
 
 ### Debugging
 
-![Easy to find file](../img/debugging-styled-components.png)
+![Easy to find file](https://raw.githubusercontent.com/BobbyBabybird/styled-presentation/master/img/debugging-styled-components.png)
 
 ---
 
