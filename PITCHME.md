@@ -21,16 +21,16 @@ BEM etc tries to solve that issue but does not really do that.
 - Works well with React.
 - Generating HTML and CSS. Not recreating the wheel.
 
----?gist=BobbyBabybird/b81c2cc2f5aff000af532038e445733f&lang=JS&title=Quite messy
-
----?gist=BobbyBabybird/fea40d9746cda7fede5753692f8a0a0b&lang=JS&title=Better
-
 ---
 
 ### What we get
 
 - No CSS conflicts due to global scope.
 - Better structured more readable code.
+
+---?gist=BobbyBabybird/b81c2cc2f5aff000af532038e445733f&lang=JS&title=Quite messy
+
+---?gist=BobbyBabybird/fea40d9746cda7fede5753692f8a0a0b&lang=JS&title=Better
 
 ---
 
